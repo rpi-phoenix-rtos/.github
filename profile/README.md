@@ -8,7 +8,8 @@ This port was 100% AI-authored - no signle line of code was written by hand (obv
 
 Due to this, this work is to be consider higly experimental, risky, unstable, untested etc. You most likely should not use it for any purpose.
 
-Yet, I did test it extensivley on a Raspberry Pi 4B 4GB board and it seems to work amazing.
+Yet, I did test it extensivley on a Raspberry Pi 4B 4GB board and it seems to work amazing. See here:
+![Screenshot](rpi-phoenix-x11.jpg?raw=true "Phoenix RTOS on RPi4 with X11 running WMaker")
 
 More details, screenshot and video recording will be published here soon.
 
