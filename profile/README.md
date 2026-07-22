@@ -8,3 +8,5 @@ Due to this, this work is to be consider higly experimental, risky, unstable, un
 Yet, I did test it extensivley on a Raspberry Pi 4B 4GB board and it seems to work amazing.
 
 More details, screenshot and video recording will be published here soon.
+
+To start look at https://github.com/rpi-phoenix-rtos/rpi-phoenix-rtos-coordination repo - there is a build instruction.
