@@ -19,7 +19,7 @@ Moreover it runs **Quake 2** and **Quake 3** with full **GPU acceleration** and 
 
 Note that for now GPU applications can work only in fullscreen mode outside of X11 (like in old DOS times). This will likely change in the future. 
 
-In addition more software ports and system changes are provided including support for full CPython, SQLite, Redis, bash, coreutils, simple ML model inference and more. In order to get this running, some system-level, and libphoenix-level changes / improvements were implemented (for example support of dynamic loading).
+In addition more software ports and system changes are provided including support for **full CPython**, SQLite, Redis, **bash and coreutils**, simple ML model inference, ffmpeg **video playback** and more. In order to get this running, some system-level, and libphoenix-level changes / improvements were implemented (for example support of dynamic loading).
 
 This is a **work in progress** with frequent commits and documentation updates. It is not stable and not finished. 
 
