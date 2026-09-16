@@ -27,7 +27,7 @@ The default "easy" way of testing the system is via SD card. BUT, there is also 
 
 This is a **work in progress** with frequent commits and documentation updates. 
 
-More details, screenshot and video recording will be published here soon.
+See here: https://youtu.be/LH-CkSJ_nL8 for a boring screencast (no audio) of the system running. Grabbed with an HDMI grabber connected to the HDMI out of Rpi4 board. Edited by AI (cut of multiple recordings). 
 
 To start look at https://github.com/rpi-phoenix-rtos/rpi-phoenix-rtos-coordination repo - there is a build/run instruction documentation. Build is fully Docker based, so you can safely build your an SD card image in a sandboxed container on any platform supporting Docker. With an SD card image, just flash it an empty card and boot your Pi4. It should "just work".
 
